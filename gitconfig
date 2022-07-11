@@ -53,5 +53,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api guadagnin.ludovic@gmail.com
-	name = Ludovic Guadagnin
+	email = guadagnin.ludovic@gmail.com
+	name = ludovic guadagnin
